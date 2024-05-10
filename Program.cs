@@ -10,6 +10,14 @@ namespace C_sharp
     {
         static void Main(string[] args)
         {
+            string helloWorld = "Hello!World";
+            Console.WriteLine(helloWorld);
+
+
+            helloWorld = "How are you?";
+            Console.WriteLine(helloWorld);
+
+            Console.ReadLine();
         }
     }
 }

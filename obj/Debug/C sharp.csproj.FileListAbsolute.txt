@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\C sharp\C sharp\bin\Debug\C sharp.exe.config
+C:\Users\PC\source\repos\C sharp\C sharp\bin\Debug\C sharp.exe
+C:\Users\PC\source\repos\C sharp\C sharp\bin\Debug\C sharp.pdb
+C:\Users\PC\source\repos\C sharp\C sharp\obj\Debug\C sharp.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C sharp\C sharp\obj\Debug\C sharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C sharp\C sharp\obj\Debug\C sharp.exe
+C:\Users\PC\source\repos\C sharp\C sharp\obj\Debug\C sharp.pdb
